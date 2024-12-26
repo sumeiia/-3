@@ -147,6 +147,7 @@ color: white;
 line-height: 1.5;
 border-radius: 0 0 5px 0;
 clip-path: polygon(20px 0, calc(100% - 20px) 0, 100% 20px, 100% calc(100% - 20px), calc(100% - 20px) 100%, 20px 100%, 0 calc(100% - 20px), 0 20px);
+    
 
 }
 
@@ -176,6 +177,7 @@ background-repeat: no-repeat;
 #myVideo {
   width: 100%;
     display: block; 
+     border-radius: 15px 15px 15px 15px;
 }
 
 .container-1{
